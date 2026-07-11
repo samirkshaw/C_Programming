@@ -1,11 +1,14 @@
 #include<stdio.h>
 int main(){
-    int x;
-    printf("Enter the number");
+    int x,y;
+    printf("Enter the number :");
     scanf("%d",&x);
     if(x<0){
-      x=x*(-1);
+      y=x*(-1);
     }
-    printf("The absolute value is %d",x);
+    else{
+      y=x;
+    }
+    printf("The absolute value of %d is %d",x,y);
     return 0;
 }
