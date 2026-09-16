@@ -34,8 +34,8 @@ Each folder is a topic, and every file inside it is a standalone, compilable pro
 
 - [x] variablesOperators
 - [x] If_Else
-- [ ] LOOPS
-- [ ] PatternPrinting
+- [x] LOOPS
+- [x] PatternPrinting
 - [ ] functions
 - [ ] Arrays
 - [ ] 2D Array
