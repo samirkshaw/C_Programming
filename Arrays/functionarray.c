@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+void modifyArray(int arr[], int size) {
+    for (int i = 0; i < size; i++) {
+        arr[i] *= 2;
+    }
+}
+
+void printArray(int arr[], int size) {
+    for (int i = 0; i < size; i++) {
+        printf("%d ", arr[i]);
+    }
+    printf("\n");
+}
+
+int main() {
+    int arr[] = {1, 2, 3, 4, 5};
+    int size = sizeof(arr) / sizeof(arr[0]);
+
+    printf("Original array: ");
+    printArray(arr, size);
+
+    modifyArray(arr, size);
+
+    printf("Modified array (doubled): ");
+    printArray(arr, size);
+
+    return 0;
+}
