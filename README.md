@@ -36,7 +36,7 @@ Each folder is a topic, and every file inside it is a standalone, compilable pro
 - [x] If_Else
 - [x] LOOPS
 - [x] PatternPrinting
-- [ ] functions
+- [x] functions
 - [ ] Arrays
 - [ ] 2D Array
 - [ ] pointers
