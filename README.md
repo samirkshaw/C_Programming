@@ -37,13 +37,13 @@ Each folder is a topic, and every file inside it is a standalone, compilable pro
 - [x] LOOPS
 - [x] PatternPrinting
 - [x] functions
-- [ ] Arrays
-- [ ] 2D Array
-- [ ] pointers
-- [ ] Recursion
-- [ ] Sorting
-- [ ] String
-- [ ] Structures
+- [x] Arrays
+- [x] 2D Array
+- [x] pointers
+- [x] Recursion
+- [x] Sorting
+- [x] String
+- [x] Structures
 - [ ] File_Handling
 
 ## 🚀 How to Run
