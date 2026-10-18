@@ -3,7 +3,7 @@
 ![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![GCC](https://img.shields.io/badge/Compiler-GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Actively%20Pushing-brightgreen?style=for-the-badge)
-![Made%20by](https://img.shields.io/badge/Made%20by-HQ%20Dopamine-orange?style=for-the-badge)
+![Made%20by](https://img.shields.io/badge/Made%20by-Samir%20Kumar%20Shaw-orange?style=for-the-badge)
 
 > A complete run through core C programming — from variables to structures — written while learning, organized by topic, and pushed daily as part of a build-in-public habit.
 
